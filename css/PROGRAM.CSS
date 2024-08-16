@@ -1,0 +1,68 @@
+body {
+    margin-top: 76px;
+    margin-bottom: 64px;
+}
+
+.header-logo {
+    width: 50px;
+}
+
+section {
+    padding: 50px 0px;
+}
+
+#hero {
+    background-image: url("../gambar/sung-jin-woo.jpg");
+    background-attachment: fixed;
+    padding-top: 450px;
+    padding-bottom: 450px;
+    background-size: cover;
+}
+
+.hero-logo{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px ;
+
+}
+
+.section-header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section-img {
+    background-color: rgb(252, 143, 10);
+    width: 150px;
+    border-radius: 100%;
+}
+
+#services {
+    background-color: rgb(236, 102, 192);
+    padding-top: 85px;
+    padding-bottom: 60px;
+}
+
+#about {
+    background-image: url("../gambar/wallpapersden.com_solo-leveling-2022-art_1920x1200.jpg");
+    background-attachment: fixed;
+    padding-top: 85px;
+    padding-bottom: 60px;
+    background-size: cover;
+    color: aliceblue;
+}
+
+#contact {
+    background-color: rgb(132, 4, 236);
+}
+
+#footer {
+    color: aliceblue;
+    padding: 20px 0px;
+}
+.bg-dark-custom {
+    background-color: #0a0a0a;
+}
+.text-white {
+    color: white;
+}
